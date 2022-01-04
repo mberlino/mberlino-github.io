@@ -10,7 +10,7 @@ Details on the pop-ups reporting:
 - life stage 
 - functional traits studied 
 
-for each scientific paper
+for each scientific paper.
 
 Blue pins used to indicate studies on fish while orange pins indicate studies on benthic organisms.
 

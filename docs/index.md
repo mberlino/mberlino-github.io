@@ -7,12 +7,12 @@ To this page you should add links to your interactive html-maps that are located
 Here is an example how to do it in MarkDown for user HTenkanen:
 
 ```
-[Link to test map](https://mberlino.github.io/Interactive-map/mappa_interattiva.html)
+[Link to map](https://mberlino.github.io/Interactive-map/docs/mappa_interattiva.html)
 ```
 
 ## My maps
 
 Add here links to the maps that you have created:
 
- - [Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
- - https://mberlino.github.io/Interactive-map/
+ - [Link to map](https://mberlino.github.io/Interactive-map/docs/mappa_interattiva.html)
+ 

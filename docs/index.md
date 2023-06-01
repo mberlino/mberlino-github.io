@@ -1,4 +1,4 @@
-# GLOBAL EVIDENCE FOR MICROPLASTIC EFFECTS ON FUNCTIONAL TRAITS OF AQUATIC VERTEBRATE AND INVETEBRATE 
+# Functional Trait-Based Evidence of Microplastic Effects on Aquatic Species 
 ## Berlino et al., 2023
 ### Figure 1
 Geographical map reporting global distribution of case studies.

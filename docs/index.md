@@ -18,5 +18,5 @@ Blue pins used to indicate studies on fish while orange pins indicate studies on
 
 Push the button below to access the map:
 
- - [Map](/mappa_interattiva.html)
+ - [/mappa_interattiva.html](https://github.com/mberlino/mberlino-github.io/blob/main/docs/mappa_interattiva.html))
  

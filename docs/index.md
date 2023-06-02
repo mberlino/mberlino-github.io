@@ -18,5 +18,5 @@ Blue pins used to indicate studies on fish while orange pins indicate studies on
 
 Push the button below to access the map:
 
- - [Mannaia](https://www.youtube.com/watch?v=StlHNfdP_to&t=3s&ab_channel=MaurizioMerluzzo)
+ - [Map](docs/interactive_map.html)
  

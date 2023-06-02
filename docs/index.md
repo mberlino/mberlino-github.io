@@ -18,5 +18,5 @@ Blue pins used to indicate studies on fish while orange pins indicate studies on
 
 Push the button below to access the map:
 
- - This is a [Video](https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda)
+ - [Map](https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda)
  
